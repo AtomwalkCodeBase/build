@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1f8da470.css",
-    "main.js": "/static/js/main.4b5d537f.js",
+    "main.js": "/static/js/main.4cbca8cd.js",
     "static/js/453.7ec37918.chunk.js": "/static/js/453.7ec37918.chunk.js",
     "static/media/CrmMocups.svg": "/static/media/CrmMocups.52e8c70046b9976399c8e1c31b83bd6f.svg",
     "static/media/Accountandf.png": "/static/media/Accountandf.84a96a15feb6344a4f22.png",
@@ -25,12 +25,14 @@
     "static/media/sattle_claim.svg": "/static/media/sattle_claim.db01cb0fc07cd07f6f46644e1d54b56c.svg",
     "static/media/image.png": "/static/media/image.f55fe67f8ba4fa6c4602.png",
     "static/media/manufacturing-erp-solutions.png": "/static/media/manufacturing-erp-solutions.35ce5063fb243f977ead.png",
+    "static/media/Bank Reconciliation.jpg": "/static/media/Bank Reconciliation.194e572838760b213dd7.jpg",
     "static/media/Hrandpayroll.jpg": "/static/media/Hrandpayroll.9310263d77fde3406330.jpg",
     "static/media/emp_advance.svg": "/static/media/emp_advance.47f2f953acff90307e031575f25a4aa3.svg",
     "static/media/Labtest.png": "/static/media/Labtest.d306211505644b5096b4.png",
     "static/media/chemical.png": "/static/media/chemical.eb8ede543e55d00b0160.png",
     "static/media/EcommApp.svg": "/static/media/EcommApp.d08f64640f1afc6971e657ce5be557c7.svg",
     "static/media/leave1.png": "/static/media/leave1.09feac747470d0615599.png",
+    "static/media/gst.webp": "/static/media/gst.0029cfd05e4a07f888bf.webp",
     "static/media/hrm_hero_img.png": "/static/media/hrm_hero_img.b2b560b7a515a331176a.png",
     "static/media/TeamImg.png": "/static/media/TeamImg.a9ab5ba30618ec269431.png",
     "static/media/hr.png": "/static/media/hr.e13184a1f188a146402d.png",
@@ -38,6 +40,7 @@
     "static/media/FevIimg.png": "/static/media/FevIimg.ec5aa0150e808b2eaa91.png",
     "static/media/leave_dashboard.svg": "/static/media/leave_dashboard.364f838500dbe22de94eb7462c9bc5c5.svg",
     "static/media/Campain.png": "/static/media/Campain.d60d77c952a36990bf12.png",
+    "static/media/Report And Dashboard.jpg": "/static/media/Report And Dashboard.91584e3da800458d2e24.jpg",
     "static/media/check-in.svg": "/static/media/check-in.35e76b5d8141b8b7ec1e2ba2e5fae5e9.svg",
     "static/media/exit_process.svg": "/static/media/exit_process.51b811c4d0e34efbe01988ecefd2afa0.svg",
     "static/media/Customermage-removebg-preview.png": "/static/media/Customermage-removebg-preview.fa8bcba86c44de2d5172.png",
@@ -101,6 +104,7 @@
     "static/media/claim.png": "/static/media/claim.479c41ec78032b2383c8.png",
     "static/media/CustomerMangement.png": "/static/media/CustomerMangement.3b6acb8648dc2e328cbf.png",
     "static/media/server.png": "/static/media/server.96b9766474c3a4c7cb8d.png",
+    "static/media/Finacial Acconting.avif": "/static/media/Finacial Acconting.3a1f51360c2ca455c64c.avif",
     "static/media/payroll.png": "/static/media/payroll.039b976618946de508d7.png",
     "static/media/partnership.png": "/static/media/partnership.4462db344dbb58334dd7.png",
     "static/media/asset-management.png": "/static/media/asset-management.32d672a7cc30dd5fb4c6.png",
@@ -180,11 +184,11 @@
     "static/media/twoDots.svg": "/static/media/twoDots.e22d5335b978ad6e05393ab35dcdcaa7.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.1f8da470.css.map": "/static/css/main.1f8da470.css.map",
-    "main.4b5d537f.js.map": "/static/js/main.4b5d537f.js.map",
+    "main.4cbca8cd.js.map": "/static/js/main.4cbca8cd.js.map",
     "453.7ec37918.chunk.js.map": "/static/js/453.7ec37918.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f8da470.css",
-    "static/js/main.4b5d537f.js"
+    "static/js/main.4cbca8cd.js"
   ]
 }
