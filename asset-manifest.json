@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.1f8da470.css",
-    "main.js": "/static/js/main.4cbca8cd.js",
+    "main.js": "/static/js/main.d351f0af.js",
     "static/js/453.7ec37918.chunk.js": "/static/js/453.7ec37918.chunk.js",
     "static/media/CrmMocups.svg": "/static/media/CrmMocups.52e8c70046b9976399c8e1c31b83bd6f.svg",
     "static/media/Accountandf.png": "/static/media/Accountandf.84a96a15feb6344a4f22.png",
     "static/media/CrmMocups2.svg": "/static/media/CrmMocups2.42b85b9b507a83b24f4f9c0bfbf25f57.svg",
     "static/media/expense_claim.svg": "/static/media/expense_claim.fe819c5f6fed879968c2f6505a935b16.svg",
+    "static/media/HeroLabSection.png": "/static/media/HeroLabSection.1606c37d4e5ec7047aa4.png",
     "static/media/Designer.png": "/static/media/Designer.d544d66eb8011e427ca3.png",
     "static/media/appicon.svg": "/static/media/appicon.14aa13ef15beb880eec9335ec39db970.svg",
     "static/media/approve_claim.svg": "/static/media/approve_claim.1ec6d1911ec4293f92b19cff055accd6.svg",
@@ -34,7 +35,6 @@
     "static/media/leave1.png": "/static/media/leave1.09feac747470d0615599.png",
     "static/media/gst.webp": "/static/media/gst.0029cfd05e4a07f888bf.webp",
     "static/media/hrm_hero_img.png": "/static/media/hrm_hero_img.b2b560b7a515a331176a.png",
-    "static/media/TeamImg.png": "/static/media/TeamImg.a9ab5ba30618ec269431.png",
     "static/media/hr.png": "/static/media/hr.e13184a1f188a146402d.png",
     "static/media/Ashutosh.png": "/static/media/Ashutosh.d4b90e7f5ddbbe2e4acc.png",
     "static/media/FevIimg.png": "/static/media/FevIimg.ec5aa0150e808b2eaa91.png",
@@ -57,9 +57,12 @@
     "static/media/payroll-seup.svg": "/static/media/payroll-seup.5ac3bdff9f261cbfa49d54b17fa60796.svg",
     "static/media/banner-bg.png": "/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/onboarding.svg": "/static/media/onboarding.c70afc83fb95b86ef57b12a3079b01bd.svg",
+    "static/media/TeamImg.png": "/static/media/TeamImg.c0d26972b4149da836b5.png",
     "static/media/img1.svg": "/static/media/img1.db8c904dcae430a66a73d8526e71a235.svg",
     "static/media/attendance-dashboard.svg": "/static/media/attendance-dashboard.9fc9346fd1292914e1ab95e5539b7da6.svg",
+    "static/media/labmagement.png": "/static/media/labmagement.ba84ebd47e20da342faf.png",
     "static/media/Pattner.png": "/static/media/Pattner.7901d1ba5f15d16330b0.png",
+    "static/media/equpment.png": "/static/media/equpment.d3afd0d0f3a6fd638e31.png",
     "static/media/self-appraisal.svg": "/static/media/self-appraisal.bb994ab17bfb97202c339ef0502301f2.svg",
     "static/media/appraisal-setup-feature.svg": "/static/media/appraisal-setup-feature.251253d252bccb667d40f76d15e4f873.svg",
     "static/media/check_mark.png": "/static/media/check_mark.0e730ab2b5bde0948106.png",
@@ -82,7 +85,6 @@
     "static/media/sk2.svg": "/static/media/sk2.7c9fc7c4395d941a8f1bcca5c65f2b7c.svg",
     "static/media/Backgroundpeople.png": "/static/media/Backgroundpeople.d12b809f5bce2d857642.png",
     "static/media/holiday_calender.svg": "/static/media/holiday_calender.0356f141e6752176e65622edda7c9c42.svg",
-    "static/media/machine.png": "/static/media/machine.198289e26bd1cd4c0dcc.png",
     "static/media/appraisal_setup.svg": "/static/media/appraisal_setup.8d56db0e9680f2c79eaf4f5818b62515.svg",
     "static/media/Atom_walk_logo-removebg-preview.png": "/static/media/Atom_walk_logo-removebg-preview.21661b59140f92dd7ced.png",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -98,6 +100,7 @@
     "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/exit-process.png": "/static/media/exit-process.6c14ce06c14fb114a462.png",
     "static/media/manufacturing-erp-software-implement.webp": "/static/media/manufacturing-erp-software-implement.632ec672e9c8bdb353ab.webp",
+    "static/media/laboratory.png": "/static/media/laboratory.10d5fe66121f8e772dde.png",
     "static/media/consaltant.jpg": "/static/media/consaltant.918ca418601df0f447f2.jpg",
     "static/media/Playstoer.png": "/static/media/Playstoer.99e00b0bf425c78564a5.png",
     "static/media/Mockup5-Lead.png": "/static/media/Mockup5-Lead.780e9b50bcaba7281d4d.png",
@@ -107,6 +110,7 @@
     "static/media/Finacial Acconting.avif": "/static/media/Finacial Acconting.3a1f51360c2ca455c64c.avif",
     "static/media/payroll.png": "/static/media/payroll.039b976618946de508d7.png",
     "static/media/partnership.png": "/static/media/partnership.4462db344dbb58334dd7.png",
+    "static/media/science.png": "/static/media/science.8f9dee670ee1dc6ebb6e.png",
     "static/media/asset-management.png": "/static/media/asset-management.32d672a7cc30dd5fb4c6.png",
     "static/media/access.png": "/static/media/access.21a604edb66b884a0028.png",
     "static/media/contactus.jpg": "/static/media/contactus.d92ad20f9e7e87520f41.jpg",
@@ -184,11 +188,11 @@
     "static/media/twoDots.svg": "/static/media/twoDots.e22d5335b978ad6e05393ab35dcdcaa7.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.1f8da470.css.map": "/static/css/main.1f8da470.css.map",
-    "main.4cbca8cd.js.map": "/static/js/main.4cbca8cd.js.map",
+    "main.d351f0af.js.map": "/static/js/main.d351f0af.js.map",
     "453.7ec37918.chunk.js.map": "/static/js/453.7ec37918.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f8da470.css",
-    "static/js/main.4cbca8cd.js"
+    "static/js/main.d351f0af.js"
   ]
 }
