@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1f8da470.css",
-    "main.js": "/static/js/main.5532daec.js",
+    "main.js": "/static/js/main.c9f65340.js",
     "static/js/453.7ec37918.chunk.js": "/static/js/453.7ec37918.chunk.js",
     "static/media/CrmMocups.svg": "/static/media/CrmMocups.52e8c70046b9976399c8e1c31b83bd6f.svg",
     "static/media/Accountandf.png": "/static/media/Accountandf.84a96a15feb6344a4f22.png",
@@ -73,7 +73,6 @@
     "static/media/leave_report.svg": "/static/media/leave_report.99de12c7d472ed6f47e7afdba34e86cc.svg",
     "static/media/header-img.svg": "/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/add_leave.svg": "/static/media/add_leave.41af44048f7af19e55b89ade3f692bcf.svg",
-    "static/media/AAshutosh.jpeg": "/static/media/AAshutosh.80b42e90d2ae210dca80.jpeg",
     "static/media/Sriya.jpg": "/static/media/Sriya.e22c96ad530792d51d33.jpg",
     "static/media/generate-salary.svg": "/static/media/generate-salary.941e7229b7419bc7b30da4d1bbf66986.svg",
     "static/media/emp-appraisal.svg": "/static/media/emp-appraisal.ec5ebcfbd25b2cf468604114605b8d75.svg",
@@ -92,6 +91,7 @@
     "static/media/new-b-bg.png": "/static/media/new-b-bg.7dd6f955d98bb72b8f0b.png",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/blue-robot-holding-a-sign-with-space-chatbot-icon-concept-chat-bot-or-chatterbot-png-image-vector-removebg-preview.png": "/static/media/blue-robot-holding-a-sign-with-space-chatbot-icon-concept-chat-bot-or-chatterbot-png-image-vector-removebg-preview.0402c7242efcbfeb3ba3.png",
+    "static/media/AAshutosh1.jpeg": "/static/media/AAshutosh1.cabb1fe621aca18cfe36.jpeg",
     "static/media/payroll_setup.svg": "/static/media/payroll_setup.27c03a07aabe3de8e5f5c49e11a0f209.svg",
     "static/media/Claim_Image_Demo2.png": "/static/media/Claim_Image_Demo2.3bfde8dc696e1bf557e4.png",
     "static/media/Sk.svg": "/static/media/Sk.1620eca3feffff84fbec571e63f18988.svg",
@@ -188,11 +188,11 @@
     "static/media/twoDots.svg": "/static/media/twoDots.e22d5335b978ad6e05393ab35dcdcaa7.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.1f8da470.css.map": "/static/css/main.1f8da470.css.map",
-    "main.5532daec.js.map": "/static/js/main.5532daec.js.map",
+    "main.c9f65340.js.map": "/static/js/main.c9f65340.js.map",
     "453.7ec37918.chunk.js.map": "/static/js/453.7ec37918.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f8da470.css",
-    "static/js/main.5532daec.js"
+    "static/js/main.c9f65340.js"
   ]
 }
