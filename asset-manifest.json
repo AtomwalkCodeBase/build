@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cde2a475.css",
-    "main.js": "/static/js/main.d517fd68.js",
+    "main.js": "/static/js/main.9e3484fc.js",
     "static/js/453.7ec37918.chunk.js": "/static/js/453.7ec37918.chunk.js",
     "static/media/CrmMocups.svg": "/static/media/CrmMocups.52e8c70046b9976399c8e1c31b83bd6f.svg",
     "static/media/Accountandf.png": "/static/media/Accountandf.84a96a15feb6344a4f22.png",
@@ -24,8 +24,10 @@
     "static/media/premium.gif": "/static/media/premium.32087c7a3627bd39605f.gif",
     "static/media/HrApp.svg": "/static/media/HrApp.f8b908a11c10534323325eaa7e6f02ff.svg",
     "static/media/sattle_claim.svg": "/static/media/sattle_claim.db01cb0fc07cd07f6f46644e1d54b56c.svg",
+    "static/media/Labeqp.webp": "/static/media/Labeqp.e0453b3ae43325330c69.webp",
     "static/media/image.png": "/static/media/image.f55fe67f8ba4fa6c4602.png",
     "static/media/manufacturing-erp-solutions.png": "/static/media/manufacturing-erp-solutions.35ce5063fb243f977ead.png",
+    "static/media/Lab_Management_System_illustration.png": "/static/media/Lab_Management_System_illustration.ffa6ac20348fd915876c.png",
     "static/media/Bank Reconciliation.jpg": "/static/media/Bank Reconciliation.194e572838760b213dd7.jpg",
     "static/media/Hrandpayroll.jpg": "/static/media/Hrandpayroll.9310263d77fde3406330.jpg",
     "static/media/emp_advance.svg": "/static/media/emp_advance.47f2f953acff90307e031575f25a4aa3.svg",
@@ -154,6 +156,7 @@
     "static/media/sales.png": "/static/media/sales.ba949556d3121afbc087.png",
     "static/media/support.png": "/static/media/support.742caae5101d98ae2c49.png",
     "static/media/performance-management.png": "/static/media/performance-management.3d529838ac44380c1f09.png",
+    "static/media/check-list.png": "/static/media/check-list.c7084c01542ce94fe78f.png",
     "static/media/equipmentManagement.png": "/static/media/equipmentManagement.8bdb72e825582560ea19.png",
     "static/media/concentrate.png": "/static/media/concentrate.7f7fc25cb1fde510b1de.png",
     "static/media/optimization.png": "/static/media/optimization.63421cd7d827365fb19f.png",
@@ -204,11 +207,11 @@
     "static/media/twoDots.svg": "/static/media/twoDots.e22d5335b978ad6e05393ab35dcdcaa7.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.cde2a475.css.map": "/static/css/main.cde2a475.css.map",
-    "main.d517fd68.js.map": "/static/js/main.d517fd68.js.map",
+    "main.9e3484fc.js.map": "/static/js/main.9e3484fc.js.map",
     "453.7ec37918.chunk.js.map": "/static/js/453.7ec37918.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cde2a475.css",
-    "static/js/main.d517fd68.js"
+    "static/js/main.9e3484fc.js"
   ]
 }
