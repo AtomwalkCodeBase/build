@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c4b90522.css",
-    "main.js": "/static/js/main.c4ef0ae4.js",
+    "main.js": "/static/js/main.3ea2f082.js",
     "static/js/453.7ec37918.chunk.js": "/static/js/453.7ec37918.chunk.js",
     "static/media/freepik__enhance__57693.png": "/static/media/freepik__enhance__57693.0d7b0021d81231db0cac.png",
     "static/media/Accountandf.png": "/static/media/Accountandf.84a96a15feb6344a4f22.png",
@@ -14,6 +14,7 @@
     "static/media/projectmangement.png": "/static/media/projectmangement.49b30c1477fc99ca756d.png",
     "static/media/localPageHero.svg": "/static/media/localPageHero.4092dfc607fc3eed3eec085f09348f6e.svg",
     "static/media/add_claim_img.svg": "/static/media/add_claim_img.9a055c2bba7295dac45d64bb04a04aa7.svg",
+    "static/media/make-india.jpg": "/static/media/make-india.379a4dfe34e248fa6c63.jpg",
     "static/media/header-4-1-2048x1107.png": "/static/media/header-4-1-2048x1107.672ff3f0045c273d262f.png",
     "static/media/Management.jpg": "/static/media/Management.6fb154b54ae761338aa3.jpg",
     "static/media/Manager.svg": "/static/media/Manager.b7d2aa8ae19c282218cc20cf4b9c25d9.svg",
@@ -98,6 +99,7 @@
     "static/media/check-in.svg": "/static/media/check-in.35e76b5d8141b8b7ec1e2ba2e5fae5e9.svg",
     "static/media/exit_process.svg": "/static/media/exit_process.51b811c4d0e34efbe01988ecefd2afa0.svg",
     "static/media/ValuationReport.svg": "/static/media/ValuationReport.3fe75388f21eeeaf13bfd71cf2c31320.svg",
+    "static/media/InnovateWithUs.png": "/static/media/InnovateWithUs.2ee67f23c5394c2e27da.png",
     "static/media/Customermage-removebg-preview.png": "/static/media/Customermage-removebg-preview.fa8bcba86c44de2d5172.png",
     "static/media/projecticon.png": "/static/media/projecticon.2ce87c438cbe4e6220e1.png",
     "static/media/campign2.svg": "/static/media/campign2.4055d8996e265fffaea8bd04cab1f886.svg",
@@ -105,6 +107,7 @@
     "static/media/Advika_Sqare.png": "/static/media/Advika_Sqare.03e102314fc6d3295b0f.png",
     "static/media/approval_leave.svg": "/static/media/approval_leave.2d0fcfea51af1264405792a096780307.svg",
     "static/media/ProcureReport.svg": "/static/media/ProcureReport.e37950bcf18ab74f57d4efdb08751ec9.svg",
+    "static/media/msme.png": "/static/media/msme.78cfc71dc7aa6dad091c.png",
     "static/media/cover-Proses-Manajemen-Inventory-dan-Metode-Penerapannya-01-1-1024x656.png": "/static/media/cover-Proses-Manajemen-Inventory-dan-Metode-Penerapannya-01-1-1024x656.71fe8c9581957cf0a241.png",
     "static/media/ProcessInventorySetup.svg": "/static/media/ProcessInventorySetup.93b928b8c99bcba93c933f6248964328.svg",
     "static/media/StockItemReport.svg": "/static/media/StockItemReport.7019bb07ce49d91b4e7e6d32f9be876f.svg",
@@ -118,6 +121,8 @@
     "static/media/SalesReport.svg": "/static/media/SalesReport.711d0206590a01ec7aa2c19cb1dd4041.svg",
     "static/media/lab management system.png": "/static/media/lab management system.ee6c5d0bf6942d7f236d.png",
     "static/media/Dashboardaand.png": "/static/media/Dashboardaand.4ae3d9367ff7cf91f9b5.png",
+    "static/media/JoinTeam.png": "/static/media/JoinTeam.07a482494fb7f665fb18.png",
+    "static/media/ProfessionalGrowth.png": "/static/media/ProfessionalGrowth.e1daa673b96d430d121d.png",
     "static/media/SalesPayment.svg": "/static/media/SalesPayment.3f25a56fb5c3cecd636a3f39dd79d388.svg",
     "static/media/labmangement.jpg": "/static/media/labmangement.ff0cade8676acbeeba14.jpg",
     "static/media/payroll-seup.svg": "/static/media/payroll-seup.5ac3bdff9f261cbfa49d54b17fa60796.svg",
@@ -131,6 +136,7 @@
     "static/media/equpment.png": "/static/media/equpment.d3afd0d0f3a6fd638e31.png",
     "static/media/self-appraisal.svg": "/static/media/self-appraisal.bb994ab17bfb97202c339ef0502301f2.svg",
     "static/media/appraisal-setup-feature.svg": "/static/media/appraisal-setup-feature.251253d252bccb667d40f76d15e4f873.svg",
+    "static/media/CareerBg1.jpg": "/static/media/CareerBg1.f690b361db94b394be33.jpg",
     "static/media/ProjectManage.png": "/static/media/ProjectManage.9d05e43775e1f005186b.png",
     "static/media/check_mark.png": "/static/media/check_mark.0e730ab2b5bde0948106.png",
     "static/media/WeeklyScore.svg": "/static/media/WeeklyScore.3382a9fb5c88535bb2e21e7f6fae09c3.svg",
@@ -161,6 +167,7 @@
     "static/media/post-salary.svg": "/static/media/post-salary.38b58bb0e0d588485e9492fddd098bea.svg",
     "static/media/ProcureReturn.svg": "/static/media/ProcureReturn.ae4383f9fb6121133904e17fbc8c154f.svg",
     "static/media/clock.png": "/static/media/clock.cafb3982fb150a806a77.png",
+    "static/media/NASSCOM.png": "/static/media/NASSCOM.bde1d72322f368fe2d26.png",
     "static/media/sk2.svg": "/static/media/sk2.7c9fc7c4395d941a8f1bcca5c65f2b7c.svg",
     "static/media/SalesShipment.svg": "/static/media/SalesShipment.0cffbc21010270f7dabce092c04aa1ce.svg",
     "static/media/Backgroundpeople.png": "/static/media/Backgroundpeople.d12b809f5bce2d857642.png",
@@ -224,6 +231,7 @@
     "static/media/easy-to-use.png": "/static/media/easy-to-use.cae7d597f3ab4e038c1d.png",
     "static/media/experiment_16584785.png": "/static/media/experiment_16584785.90bf3018de6ad3a1f7d1.png",
     "static/media/attendance1.png": "/static/media/attendance1.c91a722f5930666fca97.png",
+    "static/media/Startup_Karnataka.png": "/static/media/Startup_Karnataka.abe2b79adec34dcffd02.png",
     "static/media/content-management.png": "/static/media/content-management.5d89ff2ade33a5b1d2fa.png",
     "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/crm1.png": "/static/media/crm1.3a67e5242c9806715379.png",
@@ -303,11 +311,11 @@
     "static/media/twoDots.svg": "/static/media/twoDots.e22d5335b978ad6e05393ab35dcdcaa7.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.c4b90522.css.map": "/static/css/main.c4b90522.css.map",
-    "main.c4ef0ae4.js.map": "/static/js/main.c4ef0ae4.js.map",
+    "main.3ea2f082.js.map": "/static/js/main.3ea2f082.js.map",
     "453.7ec37918.chunk.js.map": "/static/js/453.7ec37918.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4b90522.css",
-    "static/js/main.c4ef0ae4.js"
+    "static/js/main.3ea2f082.js"
   ]
 }
