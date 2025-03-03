@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c4b90522.css",
-    "main.js": "/static/js/main.2696b1a8.js",
+    "main.js": "/static/js/main.8a578752.js",
     "static/js/453.7ec37918.chunk.js": "/static/js/453.7ec37918.chunk.js",
     "static/media/freepik__enhance__57693.png": "/static/media/freepik__enhance__57693.0d7b0021d81231db0cac.png",
     "static/media/Accountandf.png": "/static/media/Accountandf.84a96a15feb6344a4f22.png",
@@ -47,6 +47,7 @@
     "static/media/SalesOrder.svg": "/static/media/SalesOrder.db5dc2abef63c151d8de243ddab281b4.svg",
     "static/media/Labtest.png": "/static/media/Labtest.d306211505644b5096b4.png",
     "static/media/campgin3.svg": "/static/media/campgin3.0a826edc1ec9bc8302583bdf5ad7070d.svg",
+    "static/media/assetman.svg": "/static/media/assetman.7a894abb1822a55efa6a6ab0ff1d051b.svg",
     "static/media/UniversePower_Sqare.png": "/static/media/UniversePower_Sqare.a3b7402ce1fc6a42d5a4.png",
     "static/media/odermanagement.svg": "/static/media/odermanagement.645b8d26cc93f21e5cc84ea51a10f90f.svg",
     "static/media/inventory_operation.png": "/static/media/inventory_operation.f921c6b2ae088242b90d.png",
@@ -311,11 +312,11 @@
     "static/media/twoDots.svg": "/static/media/twoDots.e22d5335b978ad6e05393ab35dcdcaa7.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.c4b90522.css.map": "/static/css/main.c4b90522.css.map",
-    "main.2696b1a8.js.map": "/static/js/main.2696b1a8.js.map",
+    "main.8a578752.js.map": "/static/js/main.8a578752.js.map",
     "453.7ec37918.chunk.js.map": "/static/js/453.7ec37918.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4b90522.css",
-    "static/js/main.2696b1a8.js"
+    "static/js/main.8a578752.js"
   ]
 }
