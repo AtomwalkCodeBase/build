@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c4b90522.css",
-    "main.js": "/static/js/main.0d9482ef.js",
+    "main.js": "/static/js/main.16e50f58.js",
     "static/js/453.7ec37918.chunk.js": "/static/js/453.7ec37918.chunk.js",
     "static/media/Health image.jpg": "/static/media/Health image.b0edc47087a5d03cdcc1.jpg",
     "static/media/Facility_image.jpg": "/static/media/Facility_image.618fbcdab1d720edb2d0.jpg",
@@ -129,7 +129,6 @@
     "static/media/cover-Proses-Manajemen-Inventory-dan-Metode-Penerapannya-01-1-1024x656.png": "/static/media/cover-Proses-Manajemen-Inventory-dan-Metode-Penerapannya-01-1-1024x656.71fe8c9581957cf0a241.png",
     "static/media/ProcessInventorySetup.svg": "/static/media/ProcessInventorySetup.93b928b8c99bcba93c933f6248964328.svg",
     "static/media/StockItemReport.svg": "/static/media/StockItemReport.7019bb07ce49d91b4e7e6d32f9be876f.svg",
-    "static/media/HrApp.png": "/static/media/HrApp.0eb9df2f1d6d57adc2bd.png",
     "static/media/user-mangerole.png": "/static/media/user-mangerole.60795852ff5499076f19.png",
     "static/media/labmentanat.png": "/static/media/labmentanat.a3f1c5ebc7bee9b0b2f4.png",
     "static/media/pricingelusrtion.png": "/static/media/pricingelusrtion.f9102968b3ab2d7f7123.png",
@@ -363,11 +362,11 @@
     "static/media/twoDots.svg": "/static/media/twoDots.e22d5335b978ad6e05393ab35dcdcaa7.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.c4b90522.css.map": "/static/css/main.c4b90522.css.map",
-    "main.0d9482ef.js.map": "/static/js/main.0d9482ef.js.map",
+    "main.16e50f58.js.map": "/static/js/main.16e50f58.js.map",
     "453.7ec37918.chunk.js.map": "/static/js/453.7ec37918.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4b90522.css",
-    "static/js/main.0d9482ef.js"
+    "static/js/main.16e50f58.js"
   ]
 }
