@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9fd886ea.css",
-    "main.js": "/static/js/main.56eda84d.js",
+    "main.js": "/static/js/main.4639f5a3.js",
     "static/js/239.0dd437d2.chunk.js": "/static/js/239.0dd437d2.chunk.js",
     "static/js/977.983b231a.chunk.js": "/static/js/977.983b231a.chunk.js",
     "static/js/455.66b20c2d.chunk.js": "/static/js/455.66b20c2d.chunk.js",
@@ -15,6 +15,7 @@
     "static/media/Designer.png": "/static/media/Designer.d544d66eb8011e427ca3.png",
     "static/media/Procurement.png": "/static/media/Procurement.55f25f33fc0f83e86c4e.png",
     "static/media/projectmangement.png": "/static/media/projectmangement.49b30c1477fc99ca756d.png",
+    "static/media/Backgroundyellow.jpg": "/static/media/Backgroundyellow.7dca90d4c1edba81dad0.jpg",
     "static/media/make-india.jpg": "/static/media/make-india.379a4dfe34e248fa6c63.jpg",
     "static/media/Management.jpg": "/static/media/Management.6fb154b54ae761338aa3.jpg",
     "static/media/Default_A_bustling_industrial_scene_depicting_modern_manufactu_1.jpg": "/static/media/Default_A_bustling_industrial_scene_depicting_modern_manufactu_1.ed533c9382af58022d54.jpg",
@@ -181,7 +182,6 @@
     "static/media/TdsComplience.svg": "/static/media/TdsComplience.7f5fa7f4795f6645d4d4f9c0381285c7.svg",
     "static/media/EwaybillComplience.svg": "/static/media/EwaybillComplience.578c60b54cb1a587bb8658ddce884d28.svg",
     "static/media/Sk.svg": "/static/media/Sk.1620eca3feffff84fbec571e63f18988.svg",
-    "static/media/Backgroundyellow.jpg": "/static/media/Backgroundyellow.724b6926d561bc062e5d.jpg",
     "static/media/Sales_Lifecycle.png": "/static/media/Sales_Lifecycle.667ff3a8b502cf7a76c4.png",
     "static/media/amc.png": "/static/media/amc.ac39eca463cd0e803f59.png",
     "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
@@ -319,7 +319,7 @@
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.9fd886ea.css.map": "/static/css/main.9fd886ea.css.map",
-    "main.56eda84d.js.map": "/static/js/main.56eda84d.js.map",
+    "main.4639f5a3.js.map": "/static/js/main.4639f5a3.js.map",
     "239.0dd437d2.chunk.js.map": "/static/js/239.0dd437d2.chunk.js.map",
     "977.983b231a.chunk.js.map": "/static/js/977.983b231a.chunk.js.map",
     "455.66b20c2d.chunk.js.map": "/static/js/455.66b20c2d.chunk.js.map",
@@ -327,6 +327,6 @@
   },
   "entrypoints": [
     "static/css/main.9fd886ea.css",
-    "static/js/main.56eda84d.js"
+    "static/js/main.4639f5a3.js"
   ]
 }
