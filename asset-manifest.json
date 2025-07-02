@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9fd886ea.css",
-    "main.js": "/static/js/main.4639f5a3.js",
+    "main.js": "/static/js/main.d942b821.js",
     "static/js/239.0dd437d2.chunk.js": "/static/js/239.0dd437d2.chunk.js",
     "static/js/977.983b231a.chunk.js": "/static/js/977.983b231a.chunk.js",
     "static/js/455.66b20c2d.chunk.js": "/static/js/455.66b20c2d.chunk.js",
@@ -91,7 +91,6 @@
     "static/media/Campain.png": "/static/media/Campain.d60d77c952a36990bf12.png",
     "static/media/DocumentSetup.svg": "/static/media/DocumentSetup.a83cf8bebdd57c9894b15f6e6c3eb1d6.svg",
     "static/media/attendance-dashboard.svg": "/static/media/attendance-dashboard.9d1ac3e3cd24f1b9b3095cff2c75cb8f.svg",
-    "static/media/SalesInventory.svg": "/static/media/SalesInventory.7a9501e7e1a3ed8e9db5f9e6c12dd86e.svg",
     "static/media/Step1_image.png": "/static/media/Step1_image.b1e5b9e09099a2f876dd.png",
     "static/media/CrmMocups.svg": "/static/media/CrmMocups.02d59cd2a959572890ba43ce2e89dd72.svg",
     "static/media/step2_4_solarpng.png": "/static/media/step2_4_solarpng.e25b6bcc60d4a5e8b9f0.png",
@@ -149,7 +148,6 @@
     "static/media/OrderIn.svg": "/static/media/OrderIn.f0fe0c931a748b335b04a0548bcea36d.svg",
     "static/media/Manufacturing-Business-Development-Tips-1024x576.jpg": "/static/media/Manufacturing-Business-Development-Tips-1024x576.074a46b916689a522875.jpg",
     "static/media/SimplifiedEquipmentManagement.png": "/static/media/SimplifiedEquipmentManagement.6d29210302b693d135e6.png",
-    "static/media/ProcureInventory.svg": "/static/media/ProcureInventory.c275f6dc0bc81cb3b2420dce688ffeb1.svg",
     "static/media/ProjectDB.svg": "/static/media/ProjectDB.2c86a89171b2ab794ff750e99f97642a.svg",
     "static/media/faq.png": "/static/media/faq.0aaf4c93b37d158961e9.png",
     "static/media/aging.svg": "/static/media/aging.6d6ac09ce3cca8add0c3d4218e30d661.svg",
@@ -282,7 +280,6 @@
     "static/media/Satish (1).jpg": "/static/media/Satish (1).e6db7b9efe84f59a8740.jpg",
     "static/media/step2_(5).png": "/static/media/step2_(5).28de22f8929b3cb1504c.png",
     "static/media/login.png": "/static/media/login.1fc5649da5ea944b531d.png",
-    "static/media/User_Activity_icon.png": "/static/media/User_Activity_icon.719a958a9d5be6ead5ca.png",
     "static/media/startup.png": "/static/media/startup.be4fd0c3b78108011c51.png",
     "static/media/better_experience.png": "/static/media/better_experience.904fb1df701730ef3db1.png",
     "static/media/lifeintelect_square.jpg": "/static/media/lifeintelect_square.a6ddafe0fa2dd46b9691.jpg",
@@ -319,7 +316,7 @@
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.9fd886ea.css.map": "/static/css/main.9fd886ea.css.map",
-    "main.4639f5a3.js.map": "/static/js/main.4639f5a3.js.map",
+    "main.d942b821.js.map": "/static/js/main.d942b821.js.map",
     "239.0dd437d2.chunk.js.map": "/static/js/239.0dd437d2.chunk.js.map",
     "977.983b231a.chunk.js.map": "/static/js/977.983b231a.chunk.js.map",
     "455.66b20c2d.chunk.js.map": "/static/js/455.66b20c2d.chunk.js.map",
@@ -327,6 +324,6 @@
   },
   "entrypoints": [
     "static/css/main.9fd886ea.css",
-    "static/js/main.4639f5a3.js"
+    "static/js/main.d942b821.js"
   ]
 }
