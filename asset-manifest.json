@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.9fd886ea.css",
-    "main.js": "/static/js/main.d942b821.js",
-    "static/js/239.0dd437d2.chunk.js": "/static/js/239.0dd437d2.chunk.js",
-    "static/js/977.983b231a.chunk.js": "/static/js/977.983b231a.chunk.js",
-    "static/js/455.66b20c2d.chunk.js": "/static/js/455.66b20c2d.chunk.js",
-    "static/js/453.d96a00ff.chunk.js": "/static/js/453.d96a00ff.chunk.js",
+    "main.css": "/static/css/main.af2560ee.css",
+    "main.js": "/static/js/main.b344a99f.js",
+    "static/js/239.4d1df3a7.chunk.js": "/static/js/239.4d1df3a7.chunk.js",
+    "static/js/977.ef801db8.chunk.js": "/static/js/977.ef801db8.chunk.js",
+    "static/js/455.386f9098.chunk.js": "/static/js/455.386f9098.chunk.js",
+    "static/js/453.37a24ab6.chunk.js": "/static/js/453.37a24ab6.chunk.js",
     "static/media/Health image.jpg": "/static/media/Health image.b0edc47087a5d03cdcc1.jpg",
     "static/media/Facility_image.jpg": "/static/media/Facility_image.618fbcdab1d720edb2d0.jpg",
     "static/media/freepik__enhance__57693.png": "/static/media/freepik__enhance__57693.0d7b0021d81231db0cac.png",
@@ -15,6 +15,7 @@
     "static/media/Designer.png": "/static/media/Designer.d544d66eb8011e427ca3.png",
     "static/media/Procurement.png": "/static/media/Procurement.55f25f33fc0f83e86c4e.png",
     "static/media/projectmangement.png": "/static/media/projectmangement.49b30c1477fc99ca756d.png",
+    "static/media/lipika.png": "/static/media/lipika.db9195c6300439854722.png",
     "static/media/Backgroundyellow.jpg": "/static/media/Backgroundyellow.7dca90d4c1edba81dad0.jpg",
     "static/media/make-india.jpg": "/static/media/make-india.379a4dfe34e248fa6c63.jpg",
     "static/media/Management.jpg": "/static/media/Management.6fb154b54ae761338aa3.jpg",
@@ -271,7 +272,6 @@
     "static/media/service.png": "/static/media/service.2b0a165b42a11cc4aafa.png",
     "static/media/H_Step3(2).png": "/static/media/H_Step3(2).78193e8d639f8ea8fda4.png",
     "static/media/accessible.png": "/static/media/accessible.3ff76038314c071df14d.png",
-    "static/media/lipika.jpg": "/static/media/lipika.75242ac9bb129dc39010.jpg",
     "static/media/step2_(6).png": "/static/media/step2_(6).6a5aef0491eb5ef29f00.png",
     "static/media/trash.png": "/static/media/trash.f9aa76db6ca05c370305.png",
     "static/media/administer.png": "/static/media/administer.85579c0cb192be159e06.png",
@@ -315,15 +315,15 @@
     "index.html": "/index.html",
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.9fd886ea.css.map": "/static/css/main.9fd886ea.css.map",
-    "main.d942b821.js.map": "/static/js/main.d942b821.js.map",
-    "239.0dd437d2.chunk.js.map": "/static/js/239.0dd437d2.chunk.js.map",
-    "977.983b231a.chunk.js.map": "/static/js/977.983b231a.chunk.js.map",
-    "455.66b20c2d.chunk.js.map": "/static/js/455.66b20c2d.chunk.js.map",
-    "453.d96a00ff.chunk.js.map": "/static/js/453.d96a00ff.chunk.js.map"
+    "main.af2560ee.css.map": "/static/css/main.af2560ee.css.map",
+    "main.b344a99f.js.map": "/static/js/main.b344a99f.js.map",
+    "239.4d1df3a7.chunk.js.map": "/static/js/239.4d1df3a7.chunk.js.map",
+    "977.ef801db8.chunk.js.map": "/static/js/977.ef801db8.chunk.js.map",
+    "455.386f9098.chunk.js.map": "/static/js/455.386f9098.chunk.js.map",
+    "453.37a24ab6.chunk.js.map": "/static/js/453.37a24ab6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fd886ea.css",
-    "static/js/main.d942b821.js"
+    "static/css/main.af2560ee.css",
+    "static/js/main.b344a99f.js"
   ]
 }
